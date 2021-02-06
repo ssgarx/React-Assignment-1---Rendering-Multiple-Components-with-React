@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div id="main">
       <h1 data-ns-test="project-name" >React Assignment 1</h1>
-      <p data-ns-test attribute="project-description" >Rendering Multiple Components with React</p>
+      <p data-ns-test="project-description" >Rendering Multiple Components with React</p>
     </div>
   )
 }
